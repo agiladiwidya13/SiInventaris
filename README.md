@@ -35,7 +35,7 @@ Langkah-langkah untuk menjalankan aplikasi di lingkungan lokal:
 
 ### 1. Clone dan Masuk ke Direktori Proyek
 ```bash
-git clone <repository-url>
+git clone https://github.com/agiladiwidya13/SiInventaris.git
 cd SiInventaris
 ```
 
